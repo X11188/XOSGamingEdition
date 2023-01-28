@@ -1,5 +1,6 @@
 #                                              **!!!!!!!!!!!!DISCLAIMER!!!!!!!!!!!!!**
 Absolutely **__DO NOT__** install this without a backup. Although it may work on my machine and many other's, there is a possibility it wont work on your machine.
+Note that I am also not responsible to any damage to your computer.
 **You have been warned.**
 
 # **Why?**
